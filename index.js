@@ -1,7 +1,7 @@
 const express = require('express');
 
 const PORT = 4141;
-const HOST = '127.0.0.1';
+const HOST = '0.0.0.0';
 
 
 const app = express();
